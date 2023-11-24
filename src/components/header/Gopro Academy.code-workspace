@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/Test Praticals File/Gopro Academy"
+		},
+		{
+			"path": "../../../../Documents/Test Praticals File/react js_scrimba.com"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../rubos_app"
+		},
+		{
+			"path": "../../../../../../wamp64/www/newsportal"
+		},
+		{
+			"path": "../../../../Documents/Gender-and-Age-Detection-master"
+		},
+		{
+			"path": "../../../../Documents/Test Praticals File/infinet_web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "infinet_web"
+	}
+}
